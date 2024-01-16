@@ -3,12 +3,12 @@
     <img src="https://unpkg.com/outeres@0.1.0/img/layui/logo-icon.png" width="81" alt="Layui">
   </a>
 </p>
-<h1 align="center">Layui</h1>
+<h1 align="center">Layui-us</h1>
 <p align="center">
   Classic modular front-end UI library
 </p>
 
-<p align="center">  
+<p align="center">
   <a href="https://www.npmjs.com/package/layui">
     <img src="https://img.shields.io/npm/v/layui" alt="Version">
   </a>
@@ -26,6 +26,8 @@
 ---
 
 Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 `HTML/CSS/JavaScript` 开发模式，极易上手，拿来即用。其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。Layui 区别于一众主流的前端框架，却并非逆道而行，而是信奉返璞归真之道。确切地说，它更多是面向于追求简单的务实主义者，即无需涉足各类构建工具，只需面向浏览器本身，便可将页面所需呈现的元素与交互信手拈来。
+
+layui-us是基于Layui的二次开发，目的是为了将中文版的Layui翻译为英文版，方便英文用户使用。
 
 ## 快速上手
 
@@ -50,7 +52,7 @@ Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化
       // Welcome
       layer.msg('Hello World', {icon: 6});
     });
-    </script> 
+    </script>
   </body>
 </html>
 ```
@@ -61,7 +63,7 @@ Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化
 
 ## 项目参与
 
-[项目参与者](https://github.com/layui/layui/graphs/contributors) 
+[项目参与者](https://github.com/layui/layui/graphs/contributors)
 
 ## 破旧立新 🌱
 
