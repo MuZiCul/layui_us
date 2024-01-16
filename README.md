@@ -57,15 +57,15 @@ layui-us是基于Layui的二次开发，目的是为了将中文版的Layui翻�
 </html>
 ```
 
-## 使用文档
+## 官方原版-使用文档
 
 [**当前版本文档**](https://layui.dev/docs/2/)
 
-## 项目参与
+## 官方原版-项目参与
 
 [项目参与者](https://github.com/layui/layui/graphs/contributors)
 
-## 破旧立新 🌱
+## 官方原版-破旧立新 🌱
 
 2016年10月14日，Layui 发布了 `1.0.0` 首版，此后多年被广泛应用于众多 Web 平台。
 
@@ -75,6 +75,6 @@ layui-us是基于Layui的二次开发，目的是为了将中文版的Layui翻�
 
 未来，Layui 会持续陪伴着所有为之热爱的人们，共同去论证 Layui 开发模式的可行性。
 
-## 开源许可
+## 官方原版-开源许可
 
 Layui 采用 [MIT](https://opensource.org/licenses/MIT) 许可发布。其他相关协议亦可参考《[免责声明](https://gitee.com/layui/layui/blob/main/DISCLAIMER.md)》。
